@@ -11,4 +11,5 @@ Instalación y configuración de entorno de desarrollo
 
 # Funcionamiento  
 
-![](img/carro_720.jpg)
+![](img/espacio.jpg)
+
